@@ -1,0 +1,15 @@
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.nav-link{
+    color: #0DCB62;
+    font-size: 18px;
+    margin-inline: 10px;
+}
+
+.nav-link:hover{
+    color:#0DCB62;
+    text-decoration: underline;
+}
